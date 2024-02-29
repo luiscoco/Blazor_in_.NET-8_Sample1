@@ -40,7 +40,11 @@ Let's create a basic Blazor Server project.
 
 **Create Project**:
 
-Open a terminal and run: dotnet new blazorserver -o MyBlazorApp (This creates a project named "MyBlazorApp")
+Open a terminal and run. This creates a project named "MyBlazorApp":
+
+```
+dotnet new blazorserver -o MyBlazorApp
+```
 
 **Basic Component**:
 
