@@ -68,6 +68,20 @@ Blazor is a powerful web framework from Microsoft that lets you build interactiv
 
 **Server-Side Rendering (SSR)**: Pre-rendering components on the server for improved SEO and first-load performance
 
+**Additional Samples and Areas to Explore** (still PENDING)
+
+**Dependency Injection (advanced)**: Complex service injection scenarios, configuring DI containers
+
+**State Management (advanced)**: Using dedicated state management libraries like Redux or Fluxor
+
+**Component Libraries**: Integrating third-party Blazor component libraries for rich UI elements
+
+**Server-Side Rendering (SSR)**: Detailed examples of setting up SSR in Blazor apps
+
+**Blazor WebAssembly Performance Optimization**: Profiling and techniques to improve Blazor Wasm performance
+
+**Blazor Testing**: Unit and integration testing of Blazor components
+
 ## 3. Simple Blazor Sample
 
 Let's create a basic Blazor Server project.
