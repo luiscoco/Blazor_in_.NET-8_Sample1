@@ -4,6 +4,8 @@ Blazor is a component based **SPA**(Single Page Application) that achieves inter
 
 See also this video in youtube: https://www.youtube.com/watch?v=gq1ySblcyA8
 
+![image](https://github.com/luiscoco/Blazor_video1/assets/32194879/27ce5b9f-874e-4a04-be45-eaca8dc9d896)
+
 ## 1. What is Blazor?
 
 Blazor is a powerful web framework from Microsoft that lets you build interactive web applications using C# instead of relying solely on JavaScript. Here's why it's interesting:
