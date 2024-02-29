@@ -30,9 +30,7 @@ Blazor is a powerful web framework from Microsoft that lets you build interactiv
 
 **Auto Mode Interactivity**: Components can intelligently switch between Blazor Server and Blazor WebAssembly based on specific needs
 
-## 2. 
-
-**Essential Blazor Capabilities**
+## 2. Essential Blazor Capabilities
 
 **Component-Based Architecture**: Building modular, reusable UI blocks:
 
@@ -52,7 +50,7 @@ Blazor is a powerful web framework from Microsoft that lets you build interactiv
 
 **Dependency Injection**: Injecting services and components
 
-**More Advanced Blazor Capabilities**
+## 3. More Advanced Blazor Capabilities
 
 **JavaScript Interop**: Calling JavaScript functions from C# and vice versa
 
@@ -68,6 +66,8 @@ Blazor is a powerful web framework from Microsoft that lets you build interactiv
 
 **Server-Side Rendering (SSR)**: Pre-rendering components on the server for improved SEO and first-load performance
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
 **Additional Samples and Areas to Explore** (still PENDING)
 
 **Dependency Injection (advanced)**: Complex service injection scenarios, configuring DI containers
@@ -82,7 +82,9 @@ Blazor is a powerful web framework from Microsoft that lets you build interactiv
 
 **Blazor Testing**: Unit and integration testing of Blazor components
 
-## 3. Simple Blazor Sample
+-------------------------------------------------------------------------------------------------------------------------------------
+
+## 4. Simple Blazor Sample
 
 Let's create a basic Blazor Server project.
 
