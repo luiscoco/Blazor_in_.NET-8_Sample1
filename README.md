@@ -1,6 +1,6 @@
 # Blazor in .NET 8: What is Blazor?
 
-Blazor is a component based **SPA**(Single Page Application) that achieves interactiviy with C#
+Blazor is a component based **SPA(Single Page Application)** that achieves interactiviy with C#
 
 See also this video in youtube: https://www.youtube.com/watch?v=gq1ySblcyA8
 
